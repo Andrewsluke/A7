@@ -1,2 +1,2 @@
 # Projects
-A collection of my projects!
+A small collection of school projects I've worked on.
